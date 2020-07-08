@@ -1,0 +1,19 @@
+{
+  "name": "carrera",
+  "version": "1.0.0",
+  "description": "Lego-poweredup + gamepad + redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debounce": "^1.2.0",
+    "gamepad": "^1.6.0",
+    "lodash": "^4.17.15",
+    "node-poweredup": "^6.7.0",
+    "redux": "^4.0.5",
+    "throttle-debounce": "^2.2.1"
+  }
+}
