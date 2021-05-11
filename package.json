@@ -11,7 +11,7 @@
   "dependencies": {
     "debounce": "^1.2.0",
     "gamepad": "^1.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-poweredup": "^6.7.0",
     "redux": "^4.0.5",
     "throttle-debounce": "^2.2.1"
